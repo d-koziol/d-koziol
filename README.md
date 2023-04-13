@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Damian and i am apiring Frontend Developer. It's nice to see you there :) Feel free ang check my repo's.
+I am Damian and i am apiring Frontend Developer. It's nice to see you there :) Feel free ang check my repo's.</br>
 If You want to, You can catch me there aswell:</br>
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#/)](#)
 [![Gmail Badge](https://img.shields.io/badge/-devkoziol@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devkoziol@gmail.com)](mailto:devkoziol@gmail.com)
