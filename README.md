@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hey%20There&&fontAlignY=30&fontSize=80&reversal=true&descAlign=160&animation=twinkling&descAlignY=40&fontColor=#ffff )
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200&section=header&text=Hey%20There&&fontAlignY=30&fontSize=80&reversal=true&descAlign=59&animation=twinkling&descAlignY=40&fontColor=#ffff )
 ### Hi there 👋
 I am Damian and I am apiring Frontend Developer. It's nice to see you there :) Feel free ang check my repo's.</br>
 If You want to, You can catch me there aswell:</br>
